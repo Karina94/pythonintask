@@ -1,0 +1,17 @@
+# Task 4. Variant 26
+
+# Shatunova Karina Eduardovna
+# 17.04.2017
+
+interes= "Аркадий Петрович Голиков - советский детский писатель, киносценарист"
+print("Аркадий Петрович Голиков известен, как ", interes)
+PlaceOfBirth="Льгов, Курская губерня, Российская империя"
+print("Место рождения: ", PlaceOfBirth)
+YearOfBirth=("1904")
+YearOfBirth=int(YearOfBirth)
+print("Год рождения: ", YearOfBirth)
+YearOfDeath=1941
+YearOfDeath=int(YearOfBirth)
+Age=1941-YearOfDeath
+print("Возраст: ", Age)
+input ("Нажмите Enter для выхода")
