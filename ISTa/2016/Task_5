@@ -1,0 +1,13 @@
+# Task 5. Variant 26
+# Напишите программу, которая бы при запуске случайным образом отображала имена двух
+# братьев, легендарных основателей Рима.
+
+# Shatunova Karina Eduardovna
+# 17.04.2017
+
+import random
+TwoName=["Ромул", "Рэнсер", "Виксен", "Рем"]
+print(random.choice(TwoName))
+TwoName=["Ромул", "Рэнсер", "Виксен", "Рем"]
+print(random.choice(TwoName))
+input("Нажмите Enter")
